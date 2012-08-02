@@ -1,2 +1,5 @@
 .DS_Store
 example_cache
+.buildpath
+.project
+.settings
